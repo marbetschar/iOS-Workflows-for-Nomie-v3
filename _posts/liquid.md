@@ -1,0 +1,15 @@
+---
+layout: post
+title: Liquid
+description: Tracks the amount of liquid you drank. Choose between water, tea, beer and wine. Integrates with Apple Health to track the amount of water.
+img: https://d1gzq6u422bfcj.cloudfront.net/workflow_icons/358f0d9049f24e7fa6da4fc3ca62282b.png
+color: 197BE4
+author: marbetschar
+---
+
+<h1>
+    <a href="https://workflow.is/workflows/358f0d9049f24e7fa6da4fc3ca62282b">Liquid</a>
+     (+ <a href="https://www.apple.com/ios/health/" target="_blank">Apple Health</a>)
+</h1>
+
+Tracks the amount of liquid you drank. Choose between water, tea, beer and wine. Integrates with Apple Health to track the amount of water you drank.
