@@ -8,7 +8,7 @@ layout: default
        {% if post.img %}
           <div class="feat-image">
             {% if post.target_url %}
-              <a href="{{ post.img }}" target="_blank">
+              <a href="{{ post.target_url }}" target="_blank">
             {% endif %}
             <img src="{{ post.img }}" alt="{{post.title}}">
             {% if post.target_url %}
