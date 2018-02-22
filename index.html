@@ -6,12 +6,19 @@ layout: default
     {% for post in site.posts %}
     <div class="box" style="background-color:#{{post.color}}">
        {% if post.img %}
-          <div class="feat-image"><img src="{{ post.img }}" alt="{{post.title}}"></div>
+          <div class="feat-image">
+            {% if post.target_url %}
+              <a href="{{ post.img }}" target="_blank">
+            {% endif %}
+            <img src="{{ post.img }}" alt="{{post.title}}">
+            {% if post.target_url %}
+              </a>
+            {% endif %}
+          </div>
        {% endif %}
           <div class="container">
             <h4>{{post.title}}</h4>
             <p>{{post.description}}</p>
-             <div class="action">{{ post.date | date: '%B %d, %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
     </div>
    {% endfor %}
