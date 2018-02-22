@@ -5,7 +5,7 @@ url: http://marco.betschart.name/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/nomie3workflows.github.io"
 full-version: "http://webjeda.com/karna-full/"
 
 sass:
