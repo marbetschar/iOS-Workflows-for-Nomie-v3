@@ -1,7 +1,7 @@
 
-title: Karna
+title: iOS Workflows for Nomie v3
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+url: http://marco.betschart.name/
 permalink: ':title/'
 
 markdown: kramdown
@@ -28,10 +28,10 @@ highlight: rouge
 
 
 # Tracker
-analytics: UA-83979019-1
+analytics: #UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: #webjeda-demo
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
