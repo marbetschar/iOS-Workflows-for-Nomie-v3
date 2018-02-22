@@ -6,7 +6,7 @@ layout: default
     {% for post in site.posts %}
     <div class="box" style="background-color:#{{post.color}}">
        {% if post.img %}
-          <img class="feat-image" src="{{ post.img }}" alt="{{post.title}}">
+          <div class="feat-image"><img src="{{ post.img }}" alt="{{post.title}}"></div>
        {% endif %}
           <div class="container">
             <h4>{{post.title}}</h4>
