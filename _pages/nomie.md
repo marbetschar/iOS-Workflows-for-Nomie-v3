@@ -2,7 +2,7 @@
 title: Nomie
 layout: post
 permalink: /nomie/
-img: images/nomie.jpg
+img: ../images/nomie.jpg
 ---
 
 [Nomie](https://twitter.com/NomieApp) is a life tracker and mood diary that's private, free and without ads.
@@ -21,3 +21,5 @@ Use Nomie as a:
 - Epilepsy Tracker
 - Allergy Tracker
 ... and anything else you can think of.
+
+<p style="text-align:center;"><a href="https://itunes.apple.com/us/app/nomie-2/id1190618299" title="Download on the AppStore"><img src="../images/AppStoreBadge.svg" /></a></p>
