@@ -2,11 +2,10 @@
 title: Nomie
 layout: post
 permalink: /nomie/
+img: /images/nomie.jpg
 ---
 
-# Nomie v3
-
-Life tracker and mood diary that's private, free and without ads.
+[Nomie](https://twitter.com/NomieApp) is a life tracker and mood diary that's private, free and without ads.
 
 With a single tap of a button I can now track any aspect of my life, and over the last year I've gain invaluable insights in to my inner workings - both physically and mentally.
 

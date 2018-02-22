@@ -2,11 +2,10 @@
 title: Workflow
 layout: post
 permalink: /workflow/
+img: /images/workflow.png
 ---
 
-# Workflow
-
-Workflow is your personal automation tool, enabling you to drag and drop any combination of actions to create powerful workflows for your iPhone, iPad, and Apple Watch.
+[Workflow](https://workflow.is) is your personal automation tool, enabling you to drag and drop any combination of actions to create powerful workflows for your iPhone, iPad, and Apple Watch.
 
 For example, you can use Workflow to:
 * Make animated GIFs
