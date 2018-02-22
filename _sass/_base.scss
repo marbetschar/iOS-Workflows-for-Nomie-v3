@@ -211,11 +211,12 @@ pre {
 }
 
 a.button {
-    padding:0.5em;
+    padding:0.5em 1em;
+    text-transform: uppercase;
     -webkit-border-radius: 3px;
     -webkit-box-shadow: 0 1px 3px #eee;
     -moz-border-radius: 3px;
     -moz-box-shadow: 0 1px 3px #eee;
     border-radius: 3px;
-    color: rgba(255, 255, 255, 0.72);
+    color: white;
 }
