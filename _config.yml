@@ -1,11 +1,11 @@
 
 title: FlowMie
 desctiption: iOS Workflows for Nomie v3
-url: http://marco.betschart.name/
+url: https://nomie3workflows.marco.betschart.name
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/nomie3workflows.github.io"
+baseurl: "/"
 full-version: "http://webjeda.com/karna-full/"
 
 sass:
